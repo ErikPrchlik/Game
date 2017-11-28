@@ -1,2 +1,2 @@
 # Hra
-Projekt do školy
+Projekt do školy.
